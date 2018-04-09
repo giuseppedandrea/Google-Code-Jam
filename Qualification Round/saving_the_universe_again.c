@@ -34,7 +34,7 @@ For each test case, output one line containing Case #x: y, where x is the test c
 # Limits
 
 1 ≤ T ≤ 100.
-1 ≤ D ≤ 109.
+1 ≤ D ≤ 10^9.
 2 ≤ length of P ≤ 30.
 Every character in P is either C or S.
 Time limit: 20 seconds per test set.

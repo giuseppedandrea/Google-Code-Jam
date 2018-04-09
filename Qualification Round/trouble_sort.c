@@ -40,7 +40,7 @@ For each test case, output one line containing Case #x: y, where x is the test c
 # Limits
 
 1 ≤ T ≤ 100.
-0 ≤ Vi ≤ 109, for all i.
+0 ≤ Vi ≤ 10^9, for all i.
 Memory limit: 1GB.
 
 # Test set 1 (Visible)
@@ -50,7 +50,7 @@ Time limit (for the entire test set): 10 seconds.
 
 # Test set 2 (Hidden)
 
-3 ≤ N ≤ 105.
+3 ≤ N ≤ 10^5.
 Time limit (for the entire test set): 20 seconds.
 
 # Special Note
