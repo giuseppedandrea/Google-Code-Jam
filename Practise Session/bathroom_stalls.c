@@ -46,7 +46,7 @@ int main(int argc, char const *argv[]) {
   scanf("%d", &T);
 
   for (size_t i = 0; i < T; i++) {
-    scanf("%lli %lli\n", &N, &K);
+    scanf("%lli %lli", &N, &K);
     v = (N-K)>>(63-__builtin_clzll(K));
     printf("Case #%d: %lli %lli\n", i+1, (v+1)>>1, v>>1);
   }
